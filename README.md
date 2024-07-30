@@ -46,7 +46,29 @@ mamba activate nf-core
 nf-core list
 `
 
-## 4. DIY
+## 4. Install Halla
+
+`
+pip install halla 
+`
+
+
+### Install R:
+
+`
+sudo apt update
+sudo apt -y upgrade
+sudo apt -y install r-base
+`
+
+### Inside R:
+
+`
+install.packages("eva")
+install.packages("XICOR")
+`
+
+## 5. DIY
 
 Now, use the sequences in *data* to run the pipeline nf-core/ampliseq!
 All info you need: https://nf-co.re/ampliseq/2.10.0
