@@ -3,9 +3,7 @@
 ## 1. Install Nextflow
 
 `
-curl -s https://get.nextflow.io | bash
-chmod +x nextflow
-sudo mv nextflow /usr/local/bin
+curl -s https://get.nextflow.io | bash ; chmod +x nextflow ; sudo mv nextflow /usr/local/bin
 `
 
 ### Check your Nextflow installation
@@ -57,7 +55,9 @@ pip install halla
 
 `
 sudo apt update
+
 sudo apt -y upgrade
+
 sudo apt -y install r-base
 `
 
@@ -65,6 +65,7 @@ sudo apt -y install r-base
 
 `
 install.packages("eva")
+
 install.packages("XICOR")
 `
 
