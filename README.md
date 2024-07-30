@@ -55,9 +55,11 @@ pip install halla
 
 `
 sudo apt update
-
+`
+`
 sudo apt -y upgrade
-
+`
+`
 sudo apt -y install r-base
 `
 
@@ -65,7 +67,8 @@ sudo apt -y install r-base
 
 `
 install.packages("eva")
-
+`
+`
 install.packages("XICOR")
 `
 
