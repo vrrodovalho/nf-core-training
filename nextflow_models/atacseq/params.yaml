@@ -1,0 +1,6 @@
+input: './samplesheet.csv'
+outdir: './results/'
+fasta: '/home/rodovalhovr/HD/references/Homo_sapiens/GRCh38/v111.38/Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz'
+gtf: '/home/rodovalhovr/HD/references/Homo_sapiens/GRCh38/v111.38/Homo_sapiens.GRCh38.111.gtf.gz'
+save_reference: true
+read_length: 150

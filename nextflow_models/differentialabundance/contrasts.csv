@@ -1,0 +1,5 @@
+id,variable,reference,target
+CE_WT_x_KO,condition,WT_CE,KO_CE
+CO_WT_x_KO,condition,WT_CO,KO_CO
+WT_CO_x_CE,condition,WT_CO,WT_CE
+KO_CO_x_CE,condition,KO_CO,KO_CE

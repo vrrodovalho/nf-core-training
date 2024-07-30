@@ -1,0 +1,5 @@
+fasta: '/home/rodovalhovr/HD/references/Mus_musculus/Ensembl/GRCm39/v108/Mus_musculus.GRCm39.dna.primary_assembly.fa.gz'
+gtf: '/home/rodovalhovr/HD/references/Mus_musculus/Ensembl/GRCm39/v108/Mus_musculus.GRCm39.108.gtf.gz'
+save_reference: true
+input: './samplesheet.csv'
+outdir: './results'

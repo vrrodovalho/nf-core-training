@@ -1,0 +1,7 @@
+input: './samplesheet.csv'
+contrasts: './contrasts.csv'
+matrix: '../results/star_salmon/salmon.merged.gene_counts_length_scaled.tsv'
+gtf: '../results/genome/Mus_musculus.GRCm39.dna.primary_assembly.filtered.gtf'
+gsea_run: true
+gsea_gene_sets: '/home/rodovalhovr/HD/references/Mus_musculus/GSEA-MSigDB/mh.all.v2023.2.Mm.symbols.gmt'
+outdir: './results'

@@ -1,0 +1,11 @@
+sampleID	forwardReads	reverseReads
+HB_1	fastq/HB1_1.fq.gz	fastq/HB1_2.fq.gz
+HB_2	fastq/HB2_1.fq.gz	fastq/HB2_2.fq.gz
+HB_3	fastq/HB3_1.fq.gz	fastq/HB3_2.fq.gz
+HB_4	fastq/HB4_1.fq.gz	fastq/HB4_2.fq.gz
+HB_5	fastq/HB5_1.fq.gz	fastq/HB5_2.fq.gz
+N_1	fastq/N1_1.fq.gz	fastq/N1_2.fq.gz
+N_2	fastq/N2_1.fq.gz	fastq/N2_2.fq.gz
+N_3	fastq/N3_1.fq.gz	fastq/N3_2.fq.gz
+N_4	fastq/N4_1.fq.gz	fastq/N4_2.fq.gz
+N_5	fastq/N5_1.fq.gz	fastq/N5_2.fq.gz
