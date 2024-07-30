@@ -21,7 +21,7 @@ nextflow info`
 
 ## 3. Install nf-core
 
-mamba create --name nf-core python=3.12 nf-core nextflow -c bioconda
+`mamba create --name nf-core python=3.12 nf-core nextflow -c bioconda`
 
 ### Activate the Mamba environment for nf-core
 
