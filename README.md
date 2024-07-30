@@ -17,7 +17,7 @@ nextflow info`
 
 ## 2. Install Mamba 
 
-bash mamba/Miniforge3-Linux-x86_64.sh
+`bash mamba/Miniforge3-Linux-x86_64.sh`
 
 ## 3. Install nf-core
 
