@@ -4,7 +4,7 @@
 halla_input1=metabolomics.csv
 halla_input2=taxonomy.csv
 
-echo -ne "\n\n>>> Computing ${files[$idxA]} x ${files[$idxB]} associations for group ${group}...\n\n"
+echo -ne "\n\n>>> Computing ${halla_input1} x ${halla_input2} associations...\n\n"
 halla \
     -y ${halla_input1} \
     -x ${halla_input2} \
@@ -15,4 +15,4 @@ halla \
     --fdr_alpha 0.05 \
     -n -1 \
     --diagnostic_plot \
-    -o output_${group}_${files[$idxA]}_x_${files[$idxB]}
+    -o output_${halla_input1}_x_${halla_input2}
