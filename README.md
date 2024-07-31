@@ -46,11 +46,6 @@ nf-core list
 
 ## 4. Install Halla
 
-`
-pip install halla 
-`
-
-
 ### Install R:
 
 `
@@ -74,6 +69,13 @@ install.packages("eva")
 `
 install.packages("XICOR")
 `
+
+### Install Halla
+
+`
+pip install halla 
+`
+
 
 ## 5. DIY
 
