@@ -62,12 +62,25 @@ sudo apt -y install r-base
 
 ### Inside R:
 
+
+Enter R:
+
+`
+R
+`
+
 `
 install.packages("eva")
 `
 
 `
 install.packages("XICOR")
+`
+
+Exit R:
+
+`
+q()
 `
 
 ### Install Halla
@@ -77,7 +90,22 @@ pip install halla
 `
 
 
-## 5. DIY
+## 5. Create pandas environment  
+
+
+`
+mamba create --name pandas python=3.12 pandas -c conda
+`
+
+`
+mamba activate pandas
+`
+
+
+Run generate_samplesheet.py!
+
+
+## 6. DIY
 
 Now, use the sequences in *data* to run the pipeline nf-core/ampliseq!
 All info you need: https://nf-co.re/ampliseq/2.10.0
