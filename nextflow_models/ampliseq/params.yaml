@@ -2,8 +2,12 @@ input: './samplesheet.tsv'
 metadata: './metadata.tsv'
 outdir: './results'
 dada_ref_taxonomy: 'silva=138'
+kraken2_ref_taxonomy: 'silva=138'
+picrust: true
 metadata_category: "condition"
 metadata_category_barplot: "condition"
 exclude_taxa: "mitochondria,chloroplast,archaea" 
+min_frequency: 1
+min_samples: 1  
+diversity_rarefaction_depth: 1000
 skip_cutadapt: true
-single_end: true

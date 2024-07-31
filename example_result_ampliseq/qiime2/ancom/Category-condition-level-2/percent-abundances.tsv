@@ -1,0 +1,17 @@
+Percentile	0.0	25.0	50.0	75.0	100.0	0.0	25.0	50.0	75.0	100.0
+Group	HB	HB	HB	HB	HB	N	N	N	N	N
+Bacteria;Bacteroidota	8380.0	14083.0	14529.0	17938.0	22689.0	21509.0	32889.0	48993.0	50569.0	55800.0
+Bacteria;Firmicutes	8267.0	12801.0	13587.0	15742.0	18174.0	15844.0	17605.0	20274.0	29481.0	32443.0
+Bacteria;	9.0	116.0	132.0	342.0	436.0	1.0	2.0	3.0	3.0	74.0
+Bacteria;Proteobacteria	89246.0	89840.0	97077.0	99997.0	122750.0	18143.0	24464.0	25350.0	26623.0	26647.0
+Bacteria;Deferribacterota	1.0	1.0	1.0	1.0	1.0	1.0	1.0	3.0	4.0	4.0
+Bacteria;Actinobacteriota	57.0	87.0	87.0	97.0	239.0	104.0	224.0	226.0	346.0	392.0
+Bacteria;Spirochaetota	1.0	1.0	1.0	3.0	5.0	1.0	1.0	1.0	4.0	7.0
+Bacteria;Cyanobacteria	1.0	1.0	1.0	1.0	1.0	1.0	1.0	3.0	4.0	15.0
+Bacteria;Desulfobacterota	64.0	93.0	96.0	122.0	268.0	32.0	79.0	92.0	138.0	351.0
+Bacteria;Campylobacterota	16.0	244.0	286.0	289.0	298.0	94.0	114.0	394.0	461.0	520.0
+Bacteria;Verrucomicrobiota	263.0	655.0	839.0	1245.0	1769.0	2446.0	14299.0	26475.0	52232.0	52927.0
+;	1.0	3.0	77.0	111.0	224.0	1.0	1.0	1.0	1.0	1.0
+Bacteria;Elusimicrobiota	1.0	1.0	1.0	1.0	3.0	1.0	1.0	1.0	1.0	7.0
+Bacteria;Patescibacteria	1.0	1.0	1.0	1.0	26.0	1.0	1.0	5.0	21.0	29.0
+Bacteria;Bdellovibrionota	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	3.0

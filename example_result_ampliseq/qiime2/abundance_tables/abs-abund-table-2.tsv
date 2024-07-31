@@ -1,0 +1,17 @@
+# Constructed from biom file
+#OTU ID	HB1	HB2	HB3	HB4	HB5	N1	N2	N3	N4	N5
+Bacteria;Bacteroidota	17937.0	14528.0	22688.0	8379.0	14082.0	48992.0	55799.0	32888.0	50568.0	21508.0
+Bacteria;Firmicutes	15741.0	8266.0	13586.0	12800.0	18173.0	32442.0	29480.0	20273.0	15843.0	17604.0
+Bacteria;	131.0	435.0	8.0	341.0	115.0	2.0	2.0	73.0	0.0	1.0
+Bacteria;Proteobacteria	89245.0	99996.0	89839.0	122749.0	97076.0	25349.0	24463.0	26622.0	26646.0	18142.0
+Bacteria;Deferribacterota	0.0	0.0	0.0	0.0	0.0	3.0	3.0	0.0	2.0	0.0
+Bacteria;Actinobacteriota	238.0	56.0	96.0	86.0	86.0	225.0	391.0	345.0	103.0	223.0
+Bacteria;Spirochaetota	4.0	0.0	0.0	2.0	0.0	6.0	0.0	0.0	0.0	3.0
+Bacteria;Cyanobacteria	0.0	0.0	0.0	0.0	0.0	0.0	14.0	2.0	0.0	3.0
+Bacteria;Desulfobacterota	95.0	267.0	92.0	63.0	121.0	78.0	137.0	91.0	31.0	350.0
+Bacteria;Campylobacterota	15.0	288.0	285.0	243.0	297.0	460.0	113.0	519.0	393.0	93.0
+Bacteria;Verrucomicrobiota	654.0	1768.0	1244.0	262.0	838.0	14298.0	2445.0	52231.0	26474.0	52926.0
+;	2.0	223.0	0.0	76.0	110.0	0.0	0.0	0.0	0.0	0.0
+Bacteria;Elusimicrobiota	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6.0
+Bacteria;Patescibacteria	25.0	0.0	0.0	0.0	0.0	0.0	28.0	4.0	0.0	20.0
+Bacteria;Bdellovibrionota	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0

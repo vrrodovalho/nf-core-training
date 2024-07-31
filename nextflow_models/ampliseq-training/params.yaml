@@ -1,0 +1,9 @@
+input: './samplesheet.tsv'
+metadata: './metadata.tsv'
+outdir: './results'
+dada_ref_taxonomy: 'silva=138'
+metadata_category: "condition"
+metadata_category_barplot: "condition"
+exclude_taxa: "mitochondria,chloroplast,archaea" 
+skip_cutadapt: true
+single_end: true

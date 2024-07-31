@@ -1,0 +1,11 @@
+index,Bacteria;Bacteroidota;Bacteroidia,Bacteria;Firmicutes;Clostridia,Bacteria;;,Bacteria;Proteobacteria;Gammaproteobacteria,Bacteria;Proteobacteria;Alphaproteobacteria,Bacteria;Deferribacterota;Deferribacteres,Bacteria;Firmicutes;Bacilli,Bacteria;Actinobacteriota;Coriobacteriia,Bacteria;Firmicutes;Negativicutes,Bacteria;Spirochaetota;Spirochaetia,Bacteria;Cyanobacteria;Vampirivibrionia,Bacteria;Desulfobacterota;Desulfovibrionia,Bacteria;Firmicutes;,Bacteria;Campylobacterota;Campylobacteria,Bacteria;Verrucomicrobiota;Verrucomicrobiae,;;,Bacteria;Actinobacteriota;Actinobacteria,Bacteria;Elusimicrobiota;Elusimicrobia,Bacteria;Patescibacteria;Saccharimonadia,Bacteria;Bdellovibrionota;Bdellovibrionia,Bacteria;Actinobacteriota;Thermoleophilia,condition
+HB1,17937.0,11444.0,131.0,89240.0,5.0,0.0,3935.0,231.0,361.0,4.0,0.0,95.0,1.0,15.0,654.0,2.0,7.0,0.0,25.0,0.0,0.0,HB
+HB2,14528.0,4200.0,435.0,99985.0,11.0,0.0,3990.0,56.0,76.0,0.0,0.0,267.0,0.0,288.0,1768.0,223.0,0.0,2.0,0.0,0.0,0.0,HB
+HB3,22688.0,8135.0,8.0,89781.0,58.0,0.0,5227.0,96.0,224.0,0.0,0.0,92.0,0.0,285.0,1244.0,0.0,0.0,0.0,0.0,0.0,0.0,HB
+HB4,8379.0,6639.0,341.0,122744.0,5.0,0.0,6054.0,86.0,107.0,2.0,0.0,63.0,0.0,243.0,262.0,76.0,0.0,0.0,0.0,0.0,0.0,HB
+HB5,14082.0,6708.0,115.0,97058.0,18.0,0.0,11284.0,83.0,178.0,0.0,0.0,121.0,3.0,297.0,838.0,110.0,3.0,0.0,0.0,0.0,0.0,HB
+N1,48992.0,15245.0,2.0,25332.0,17.0,3.0,17123.0,216.0,63.0,6.0,0.0,78.0,11.0,460.0,14298.0,0.0,9.0,0.0,0.0,0.0,0.0,N
+N2,55799.0,20321.0,2.0,24457.0,6.0,3.0,9050.0,389.0,109.0,0.0,14.0,137.0,0.0,113.0,2445.0,0.0,0.0,0.0,28.0,0.0,2.0,N
+N3,32888.0,11070.0,73.0,26605.0,17.0,0.0,9153.0,302.0,49.0,0.0,2.0,91.0,1.0,519.0,52231.0,0.0,43.0,0.0,4.0,0.0,0.0,N
+N4,50568.0,8893.0,0.0,26636.0,10.0,2.0,6944.0,100.0,4.0,0.0,0.0,31.0,2.0,393.0,26474.0,0.0,3.0,0.0,0.0,2.0,0.0,N
+N5,21508.0,11278.0,1.0,18131.0,11.0,0.0,6147.0,220.0,178.0,3.0,3.0,350.0,1.0,93.0,52926.0,0.0,3.0,6.0,20.0,0.0,0.0,N

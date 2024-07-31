@@ -1,0 +1,16 @@
+	W	Reject null hypothesis
+Bacteria;Proteobacteria	7	True
+Bacteria;Verrucomicrobiota	6	True
+Bacteria;	3	False
+Bacteria;Actinobacteriota	2	False
+Bacteria;Cyanobacteria	2	False
+Bacteria;Bdellovibrionota	2	False
+Bacteria;Bacteroidota	1	False
+Bacteria;Firmicutes	1	False
+Bacteria;Deferribacterota	1	False
+Bacteria;Desulfobacterota	1	False
+;	1	False
+Bacteria;Elusimicrobiota	1	False
+Bacteria;Spirochaetota	0	False
+Bacteria;Campylobacterota	0	False
+Bacteria;Patescibacteria	0	False

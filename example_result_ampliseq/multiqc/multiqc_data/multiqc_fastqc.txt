@@ -1,0 +1,21 @@
+Sample	Filename	File type	Encoding	Total Sequences	Total Bases	Sequences flagged as poor quality	Sequence length	%GC	total_deduplicated_percentage	avg_sequence_length	median_sequence_length	basic_statistics	per_base_sequence_quality	per_tile_sequence_quality	per_sequence_quality_scores	per_base_sequence_content	per_sequence_gc_content	per_base_n_content	sequence_length_distribution	sequence_duplication_levels	overrepresented_sequences	adapter_content
+HB1_1	HB1_1.gz	Conventional base calls	Sanger / Illumina 1.9	165482.0	37.5 Mbp	0.0	225-227	53.0	2.7634425496428614	226.9897994948091	227	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+HB1_2	HB1_2.gz	Conventional base calls	Sanger / Illumina 1.9	165482.0	37 Mbp	0.0	222-224	56.0	2.9332495377140715	223.99813877037985	224	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+HB2_1	HB2_1.gz	Conventional base calls	Sanger / Illumina 1.9	159588.0	36.2 Mbp	0.0	225-227	53.0	2.422487906358874	226.99623405268568	227	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+HB2_2	HB2_2.gz	Conventional base calls	Sanger / Illumina 1.9	159588.0	35.7 Mbp	0.0	223-224	56.0	2.6242574629671402	223.99823921598116	224	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+HB3_1	HB3_1.gz	Conventional base calls	Sanger / Illumina 1.9	173854.0	39.4 Mbp	0.0	222-227	53.0	2.7131961300861644	226.9906243169556	227	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+HB3_2	HB3_2.gz	Conventional base calls	Sanger / Illumina 1.9	173854.0	38.9 Mbp	0.0	218-224	55.0	2.8132801085968686	223.9984757325112	224	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+HB4_1	HB4_1.gz	Conventional base calls	Sanger / Illumina 1.9	179181.0	40.6 Mbp	0.0	224-227	53.0	2.2781433299289544	226.9963500594371	227	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+HB4_2	HB4_2.gz	Conventional base calls	Sanger / Illumina 1.9	179181.0	40.1 Mbp	0.0	223-224	57.0	2.3300461544471793	223.99830897249151	224	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+HB5_1	HB5_1.gz	Conventional base calls	Sanger / Illumina 1.9	166848.0	37.8 Mbp	0.0	222-227	53.0	2.5807920981971613	226.9953370732643	227	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+HB5_2	HB5_2.gz	Conventional base calls	Sanger / Illumina 1.9	166848.0	37.3 Mbp	0.0	222-224	56.0	2.654511891062524	223.99822593018794	224	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+N1_1	N1_1.gz	Conventional base calls	Sanger / Illumina 1.9	180199.0	40.9 Mbp	0.0	224-227	51.0	3.024434097858479	226.9953606845765	227	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+N1_2	N1_2.gz	Conventional base calls	Sanger / Illumina 1.9	180199.0	40.3 Mbp	0.0	222-224	52.0	3.403459508654321	223.99826858084674	224	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+N2_1	N2_1.gz	Conventional base calls	Sanger / Illumina 1.9	179283.0	40.6 Mbp	0.0	218-227	51.0	2.852473463741682	226.996145758382	227	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+N2_2	N2_2.gz	Conventional base calls	Sanger / Illumina 1.9	179283.0	40.1 Mbp	0.0	215-224	52.0	3.2802887055660603	223.99824300128847	224	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+N3_1	N3_1.gz	Conventional base calls	Sanger / Illumina 1.9	184944.0	41.9 Mbp	0.0	225-227	51.0	2.4953499437667617	226.99473894800587	227	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+N3_2	N3_2.gz	Conventional base calls	Sanger / Illumina 1.9	184944.0	41.4 Mbp	0.0	223-224	54.0	3.021995847391643	223.99821567609655	224	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+N4_1	N4_1.gz	Conventional base calls	Sanger / Illumina 1.9	160836.0	36.5 Mbp	0.0	222-227	50.0	2.4702181103732994	226.99593374617623	227	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+N4_2	N4_2.gz	Conventional base calls	Sanger / Illumina 1.9	160836.0	36 Mbp	0.0	222-224	52.0	2.7574672337038972	223.99819070357384	224	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+N5_1	N5_1.gz	Conventional base calls	Sanger / Illumina 1.9	165354.0	37.5 Mbp	0.0	218-227	51.0	2.8048913240683624	226.996359326052	227	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+N5_2	N5_2.gz	Conventional base calls	Sanger / Illumina 1.9	165354.0	37 Mbp	0.0	222-224	54.0	3.5499594808713426	223.99841552064058	224	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass

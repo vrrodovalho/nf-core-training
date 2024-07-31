@@ -1,0 +1,1 @@
+This Picrust2 analysis is based on filtered reads from QIIME2
