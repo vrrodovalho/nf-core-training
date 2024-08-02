@@ -12,12 +12,6 @@ curl -s https://get.nextflow.io | bash ; chmod +x nextflow ; sudo mv nextflow /u
 nextflow info
 `
 
-### Check your Nextflow version
-
-`
-nextflow -version
-`
-
 ## 2. Install Mamba 
 
 `
@@ -30,18 +24,6 @@ Restart terminal.
 
 `
 mamba create --name nf-core python=3.12 nf-core nextflow -c bioconda
-`
-
-### Activate the Mamba environment for nf-core
-
-`
-mamba activate nf-core
-`
-
-### Check the pipelines available from nf-core
-
-`
-nf-core list
 `
 
 ## 4. Install Halla
