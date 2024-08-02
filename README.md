@@ -69,6 +69,8 @@ Enter R:
 R
 `
 
+Install the packages:
+
 `
 install.packages("eva")
 `
