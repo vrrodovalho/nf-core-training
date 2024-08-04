@@ -92,11 +92,19 @@ mamba activate pandas
 `
 
 
-Run generate_samplesheet.py!
-
-
 ## 6. DIY
 
 Now, use the sequences in *data* to run the pipeline nf-core/ampliseq!
-All info you need: https://nf-co.re/ampliseq/2.10.0
+
+For that, you need a sample sheet, a metadata file, params files and the nextflow command.
+
+To get the sample sheet, run generate_samplesheet.py. To get help:
+
+`
+python generate_samplesheet.py -h
+`
+
+Also get the models in nextflow_models directory.
+
+All other info you need: https://nf-co.re/ampliseq/2.10.0
 
