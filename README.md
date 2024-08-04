@@ -1,5 +1,13 @@
 # Instructions
 
+## 0. Create workspace
+
+Open [Gitpod](https://gitpod.io).
+
+Use the link of this repository (https://github.com/vrrodovalho/nf-core-training) to create a new worspace.
+Then, start typing the commands below.
+
+
 ## 1. Install Nextflow
 
 `
