@@ -109,4 +109,13 @@ q()
 pip install halla 
 `
 
+### Run Halla
+
+
 Now, inside the halla directory, use the halla_command.sh to run Halla.
+
+`
+bash halla_command.sh 
+`
+
+That's it! Congratulations!
