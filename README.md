@@ -32,7 +32,37 @@ Restart terminal.
 mamba create --name nf-core python=3.12 nf-core nextflow -c bioconda
 `
 
-## 4. Install Halla
+## 4. Create pandas environment  
+
+`
+mamba create --name pandas python=3.12 pandas -c conda
+`
+
+`
+mamba activate pandas
+`
+
+
+## 5. DIY
+
+Now, use the sequences in *data* to run the pipeline nf-core/ampliseq!
+
+For that, you need a sample sheet, a metadata file, params files and the nextflow command.
+
+To get the sample sheet, run generate_samplesheet.py. To get help:
+
+`
+python generate_samplesheet.py -h
+`
+
+Also get the models in nextflow_models directory.
+
+All other info you need: https://nf-co.re/ampliseq/2.10.0
+
+## 6. Halla
+
+If you also want to install and run Halla, follow the instructions below.
+
 
 ### Install R:
 
@@ -79,32 +109,4 @@ q()
 pip install halla 
 `
 
-
-## 5. Create pandas environment  
-
-
-`
-mamba create --name pandas python=3.12 pandas -c conda
-`
-
-`
-mamba activate pandas
-`
-
-
-## 6. DIY
-
-Now, use the sequences in *data* to run the pipeline nf-core/ampliseq!
-
-For that, you need a sample sheet, a metadata file, params files and the nextflow command.
-
-To get the sample sheet, run generate_samplesheet.py. To get help:
-
-`
-python generate_samplesheet.py -h
-`
-
-Also get the models in nextflow_models directory.
-
-All other info you need: https://nf-co.re/ampliseq/2.10.0
-
+Now, inside the halla directory, use the halla_command.sh to run Halla.
