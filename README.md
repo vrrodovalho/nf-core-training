@@ -61,6 +61,8 @@ Check samplesheet content.
 cat samplesheet.tsv
 `
 
+### Metadata
+
 Copy samplesheet.tsv file to create a metadata.tsv file.
 
 `
@@ -86,11 +88,17 @@ N3 | N
 
 After editing the file, use ctrl + X to save. Type Y and Enter to confirm.
 
+### Parameters file and execution script 
+
 Also get the models in nextflow_models directory.
+
+This is the model for the parameters file:
 
 `
 cp nextflow_models/ampliseq-training/params.yaml .
 `
+
+This is the model for the execution script:
 
 `
 cp nextflow_models/ampliseq-training/run_nextflow.sh .
