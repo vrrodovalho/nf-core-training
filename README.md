@@ -110,7 +110,7 @@ Now that you have all the files in the current directory, run nextflow:
 bash run_nextflow.sh
 `
 
-All other info you need: https://nf-co.re/ampliseq/2.10.0
+All other info you need: https://nf-co.re/ampliseq
 
 
 ## 6. Halla (optional)
