@@ -86,7 +86,7 @@ N1 | N
 N2 | N 
 N3 | N 
 
-After editing the file, use ctrl + X to save. Type Y and Enter to confirm.
+After editing the file, use `ctrl + X` to save. Type `Y` and `Enter` to confirm.
 
 ### Parameters file and execution script 
 
