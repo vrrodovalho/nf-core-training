@@ -43,23 +43,69 @@ mamba activate pandas
 `
 
 
-## 5. DIY
+## 5. Run Nextflow/nf-core
 
-Now, use the sequences in *data* to run the pipeline nf-core/ampliseq!
+Now, use the sequences in *data* to run the pipeline nf-core/ampliseq! For that, you need a sample sheet, a metadata file, params files and the nextflow command.
 
-For that, you need a sample sheet, a metadata file, params files and the nextflow command.
+### Samplesheet
 
-To get the sample sheet, run generate_samplesheet.py. To get help:
+To get the samplesheet, run generate_samplesheet.py
 
 `
-python generate_samplesheet.py -h
+python generate_samplesheet.py --input data --pattern "(.+)_1(.fq.gz)" --paired False
 `
+
+Check samplesheet content.
+
+`
+cat samplesheet.tsv
+`
+
+Copy samplesheet.tsv file to create a metadata.tsv file.
+
+`
+cp samplesheet.tsv metadata.tsv
+`
+
+Edit the metadata.tsv file.
+
+`
+nano metadata.tsv
+`
+
+Edit the file, so that it looks like this:
+
+ID |condition
+--- | ---
+HB1 | HB 
+HB2 | HB 
+HB3 | HB 
+N1 | N 
+N2 | N 
+N3 | N 
+
+After editing the file, use ctrl + X to save. Type Y and Enter to confirm.
 
 Also get the models in nextflow_models directory.
 
+`
+cp nextflow_models/ampliseq-training/params.yaml .
+`
+
+`
+cp nextflow_models/ampliseq-training/run_nextflow.sh .
+`
+
+Now that you have all the files in the current directory, run nextflow:
+
+`
+bash run_nextflow.sh
+`
+
 All other info you need: https://nf-co.re/ampliseq/2.10.0
 
-## 6. Halla
+
+## 6. Halla (optional)
 
 If you also want to install and run Halla, follow the instructions below.
 
